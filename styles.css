@@ -11,10 +11,7 @@ section{
   p{
   padding-left: 3%;
   }
-  .newimg{
-      float:left;
-    padding-left:3%;
-  }
+
   img[hidden] {
     display: none;
   }
